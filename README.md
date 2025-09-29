@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-arslan" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammad_arslan_priv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_arslan_priv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-arslan23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-arslan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_muhammad__arslan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_muhammad__arslan_" height="30" width="40" /></a>
 </p>
 
 ---
@@ -74,4 +74,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibn-e-muhammad&show_icons=true&locale=en" alt="ibn-e-muhammad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibn-e-muhammad&" alt="ibn-e-muhammad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibn-e-muhammad&" alt="ibn-e-muhammad" /></p
